@@ -45,4 +45,4 @@ versions = {
 ```
 
 # Training and Testing
-To run the code, you only need to run the code 'main.py'. Accordingly, same results would appear and you may adjust the parameters if needed.
+To run the code, you only need to run the code ```main.py```. Accordingly, same results would appear and you may adjust the parameters if needed.
