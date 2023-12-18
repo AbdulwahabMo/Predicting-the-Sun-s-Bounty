@@ -1,4 +1,4 @@
-# Predicting the Sun's Bounty
+# Predicting the Sun's Bounty - Review of Different Solar Power Forecasting Approaches
 Developed by Mohamad Moussa & Abdulwahab AlGhamdi
 
 # Abstract
