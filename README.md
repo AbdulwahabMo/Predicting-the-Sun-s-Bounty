@@ -27,7 +27,7 @@ Spanning several years and encompassing a vast array of input parameters,
 the used dataset, has over 88,000 data points (comulatively), 
 offering a comprehensive historical record of a specific PV module. 
 
-It will run automatically once the code is executed or you can download it from this ![link](https://github.com/WahabMo/Predicting-the-Sun-s-Bounty/blob/main/dataset.csv).
+to run the code you will have to download it from this ![link](https://github.com/WahabMo/Predicting-the-Sun-s-Bounty/blob/main/dataset.csv).
 
 # Running the Code
 Requirements:
