@@ -33,12 +33,12 @@ It will run automatically once the code is executed or you can download it from 
 Requirements:
 Following are the python libraries required to run the code. 
 
-Highlight.js('pandas': '1.5.3',
+"('pandas': '1.5.3',
  'numpy': '1.23.5',
  'matplotlib': '3.7.1',
  'scikit-learn': '1.2.2',
  'keras': '2.15.0',
- 'pytorch': '2.1.0+cu121')
+ 'pytorch': '2.1.0+cu121')"
 
 # Training and Testing
-To run the code, you only need to run the code Highlight.js(main.py). Accordingly, same results would appear and you may adjust the parameters if needed.
+To run the code, you only need to run the code ("main.py"). Accordingly, same results would appear and you may adjust the parameters if needed.
