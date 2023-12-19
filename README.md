@@ -2,7 +2,7 @@
 Developed by Mohamad Moussa & Abdulwahab AlGhamdi
 
 # Abstract
-This paper explores advanced artificial intelligence (AI) models for photovoltaic (PV) power generation prediction in Saudi Arabia. With the nation's shift towards 50% renewable energy by 2030, solar power's integration into the grid faces challenges like dust accumulation and solar irradiation variability. We examine AI models, including non-linear regression, convolutional neural networks, recurrent neural networks, and hybrid approaches, to enhance forecasting accuracy. Our study analyzes these models using real-world data, assessing their accuracy and computational efficiency, and discusses implications for grid integration and energy management. This research contributes to Saudi Arabia's renewable energy ambitions, demonstrating AI's potential in optimizing solar power utilization.
+This paper explores advanced artificial intelligence (AI) models for photovoltaic (PV) power generation prediction. With the nation's shift towards 50% renewable energy by 2030, solar power's integration into the grid faces challenges like dust accumulation and solar irradiation variability. We examine AI models, including non-linear regression, convolutional neural networks, recurrent neural networks, and hybrid approaches, to enhance forecasting accuracy. Our study analyzes these models using real-world data, assessing their accuracy and computational efficiency, and discusses implications for grid integration and energy management. This research contributes to Saudi Arabia's renewable energy ambitions, demonstrating AI's potential in optimizing solar power utilization.
 
 # Results
 *Performance Measures*
